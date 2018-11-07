@@ -18,6 +18,7 @@ public class SuiteConfig {
     public void beforeTest(){
         System.out.println("before test 运行啦！！");
     }
+	
     @AfterTest
     public void afterTest(){
         System.out.println("after test 运行啦！！");
