@@ -3,7 +3,7 @@ package com.course.testng.suite;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
-public class suiteConfig {
+public class SuiteConfig1111{
     @BeforeSuite
     public void beforeSuite(){
         System.out.println("before suite运行啦");

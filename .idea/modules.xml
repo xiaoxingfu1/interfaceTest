@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/Chapter5/Chapter5.iml" filepath="$PROJECT_DIR$/Chapter5/Chapter5.iml" />
-=======
->>>>>>> a93fda4661e49349d3b99ceb1d5b0fa0fd6b1f23
       <module fileurl="file://$PROJECT_DIR$/.idea/interfaceTest.iml" filepath="$PROJECT_DIR$/.idea/interfaceTest.iml" />
     </modules>
   </component>
