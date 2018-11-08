@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="thread" parallel="tests" thread-count="5">
+    <test name="demo1">
+        <classes>
+            <class name="course.testng.multiThread.MultiThreadOnXml"/>
+        </classes>
+    </test>
+    <test name="demo2">
+        <classes>
+            <class name="course.testng.multiThread.MultiThreadOnAnnotion"/>
+        </classes>
+    </test>
+</suite>
